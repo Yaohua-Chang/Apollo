@@ -1,2 +1,0 @@
-# Apollo
-Created with CodeSandbox
